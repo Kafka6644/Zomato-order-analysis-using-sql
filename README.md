@@ -2,6 +2,8 @@ This project is about Zomato's order analysis for the months of May, June, July 
 
 I have solved 6 questions for this project.
 
-All the files having extension -- '.csv' are the data fro this projecct
+'Zomato_database.sql' is the sql file consisting of the commands and transactions.
 
-Questions are in the 'questions.docx' file
+All the files having extension -- '.csv' are the data fro this projecct.
+
+Questions are in the 'questions.docx' file.

@@ -4,4 +4,4 @@ I have solved 6 questions for this project.
 
 All the files having extension -- '.csv' are the data fro this projecct
 
-Questions are in the 'questions.txt' file
+Questions are in the 'questions.docx' file
